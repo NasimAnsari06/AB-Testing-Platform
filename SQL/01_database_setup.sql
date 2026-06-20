@@ -1,0 +1,2 @@
+CREATE DATABASE ab_testing_project;
+USE ab_testing_project;
